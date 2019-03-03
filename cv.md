@@ -35,9 +35,9 @@ Individual entrepreneur, Freelancer
 + Duolingo (app)
 + English lvl: A1-A2
 ### My last projects
-+ автощетки.бел (Adaptive disign, HTML5, CSS3, JS, Semantic UI)
-+ зарядное.бел (Adaptive disign, HTML5, CSS3, Semantic UI, Webpack, JS, MVC model)
-+ увлажнитель.бел (Adaptive disign, HTML5, CSS3, React)
++ http://автощетки.бел (Adaptive disign, HTML5, CSS3, JS, Semantic UI)
++ http://зарядное.бел (Adaptive disign, HTML5, CSS3, Semantic UI, Webpack, JS, MVC model)
++ http://увлажнитель.бел (Adaptive disign, HTML5, CSS3, React)
 ___
 #### HTML version (old) https://gemsgame.github.io/rsschool-codejam1-cv/
 
