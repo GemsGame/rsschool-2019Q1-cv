@@ -1,5 +1,7 @@
-# NAME: ANTON MASANAVETS
-+ tel:+375291325364, email: a.masanovets@gmail.com, age: 27
+# ANTON MASANAVETS
++ tel:+375291325364
++ email: a.masanovets@gmail.com
++ age: 27
 ___
 ## OBJECTIVE
 To obtain a position in information technologies that will allow me to use my knowledge of programming and take advantage of my desire to work in IT
